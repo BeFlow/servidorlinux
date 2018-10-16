@@ -16,3 +16,9 @@ The proposal  of this project is the installation of a Linux distribution on a v
 IP privado: 172.26.6.167IP
 IP público: 107.20.22.73
 
+## Porta
+Porta ssh: 2200
+
+# URL Completa
+http://18.191.212.149/
+
