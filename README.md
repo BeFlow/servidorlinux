@@ -13,8 +13,8 @@ The proposal  of this project is the installation of a Linux distribution on a v
 
 ## Instructions
 
-IP privado: 172.26.6.167IP
-IP público: 107.20.22.73
+IP privado: 172.26.15.29
+IP público: 18.191.212.149
 
 ## Porta
 Porta ssh: 2200
