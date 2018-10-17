@@ -1,4 +1,4 @@
-# servidorlinux
+# Servidor Linux
 Projeto Servidor Linux do nanodegree Full Stack da Udacity.
 
 # Configurando servidores Linux Project
