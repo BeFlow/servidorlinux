@@ -1,6 +1,3 @@
-# Servidor Linux
-Projeto Servidor Linux do nanodegree Full Stack da Udacity.
-
 # Configurando servidores Linux Project
 
 This project is part of Full Stack Nanodegree
@@ -44,7 +41,7 @@ $ chmod 644 .ssh/authorized_keys
 
 3. ssh restart for reload SSH
 
-## Update all currently installed packages
+## Update all installed packages
 
 1. sudo apt-get update
 2. sudo apt-get upgrade
